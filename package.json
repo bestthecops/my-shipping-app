@@ -1,0 +1,13 @@
+{
+  "name": "shopify-carrier-service",
+  "version": "1.0.0",
+  "description": "Shopify Carrier Service for custom shipping rates.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  }
+}
